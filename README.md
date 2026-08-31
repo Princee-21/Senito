@@ -25,59 +25,67 @@
 
 # ✦ Overview
 
-**Sentio** is a modern **Survey, Rating & Feedback Management Platform** designed to help organizations collect feedback, understand what their users are saying, identify recurring issues, take corrective action, and measure improvement.
+**Sentio** is a modern **Survey, Rating & Feedback Management Platform** designed to help organizations collect feedback, understand what people are saying, identify recurring issues, take corrective action, and measure improvement.
 
-Traditional survey applications often follow a simple workflow:
+Most survey applications follow a simple process:
 
 > **Create → Collect → View Results**
 
-Sentio extends this workflow by treating submitted feedback as the starting point for further analysis and action.
+Sentio extends that process.
 
-The platform brings **survey creation, response collection, feedback intelligence, issue management, analytics, and improvement tracking** together in one connected experience.
+The platform connects **survey creation, response collection, feedback analysis, issue identification, action tracking, and improvement measurement** into one integrated experience.
 
----
+The core idea is simple:
 
-## The Idea Behind Sentio
-
-Feedback is valuable, but individual responses do not always tell the complete story.
-
-A single response may mention a long waiting time, poor service, an issue with a product, or a problem with a process. When similar responses appear repeatedly, however, they can reveal a pattern that deserves attention.
-
-Sentio is designed to help organizations move from individual responses to those larger patterns.
-
-Instead of simply answering:
-
-> **"What did people say?"**
-
-Sentio helps users explore:
-
-> **"What are people consistently telling us, what problems are emerging, and what should we do about them?"**
-
-This creates a feedback experience that goes beyond collecting and displaying survey responses.
+> **Feedback should lead somewhere.**
 
 ---
 
 ## ✦ The Sentio Approach
 
-The platform is built around five connected stages:
+Sentio treats a submitted survey response as the **beginning of the feedback process rather than the end**.
 
-| Stage | Purpose |
+The platform helps users move through five connected stages:
+
+| Stage | What Happens |
 |---|---|
-| **01 — Collect** | Create and distribute surveys through public links and QR codes. |
-| **02 — Understand** | Examine ratings, responses, sentiment, topics, and trends. |
-| **03 — Detect** | Identify recurring issues and areas requiring attention. |
-| **04 — Act** | Assign actions, track progress, and manage issue resolution. |
-| **05 — Measure** | Compare results over time and evaluate the impact of actions taken. |
+| **01 — Collect** | Create and distribute surveys using multiple question types, public links, and QR codes. |
+| **02 — Understand** | Examine ratings, written responses, sentiment, topics, trends, and overall feedback health. |
+| **03 — Detect** | Identify recurring issues, emerging patterns, and areas that require attention. |
+| **04 — Act** | Assign actions, track progress, and manage the resolution of identified issues. |
+| **05 — Measure** | Compare results over time to determine whether actions produced measurable improvement. |
 
-This approach turns feedback from a static collection of responses into an ongoing improvement process.
+This creates a continuous feedback-management process instead of a one-time survey workflow.
 
 ---
 
-## ✦ What Sentio Provides
+## ✦ What Makes Sentio Different?
 
-### 📝 Survey Creation
+A traditional survey platform may stop after displaying survey results.
 
-A flexible Survey Builder allows users to create surveys using multiple question formats, including:
+Sentio continues beyond the response.
+
+### Traditional Survey
+
+**Response Submitted → Results**
+
+### Sentio
+
+**Response → Insight → Issue → Action → Improvement**
+
+This approach allows feedback to become more than a collection of ratings and comments.
+
+For example, repeated responses mentioning long waiting times can become a recognizable issue. That issue can then be tracked, assigned for action, monitored through its lifecycle, and evaluated against future feedback.
+
+The goal is to connect what people **say** with what an organization **does**.
+
+---
+
+## ✦ Core Platform Capabilities
+
+### 📝 Survey Builder
+
+Create customized surveys using a flexible collection of question types:
 
 - Star Rating
 - Numeric Rating
@@ -91,61 +99,110 @@ A flexible Survey Builder allows users to create surveys using multiple question
 - Long Text
 - Dropdown
 
-Users can configure questions, reorder them, mark questions as required, preview surveys, save drafts, and publish completed surveys.
+Survey creators can configure questions, reorder content, mark questions as required, preview surveys, save drafts, and publish completed surveys.
 
-### 📱 Feedback Collection
+---
 
-Published surveys can be distributed using:
+### 📱 Public Survey Experience
 
-- Public survey links
-- QR codes
-- Mobile-friendly survey interfaces
+Published surveys can be distributed through public links and QR codes.
 
-Respondents can complete surveys across desktop, tablet, and mobile devices.
+The respondent experience is designed to work across:
+
+- Desktop
+- Tablet
+- Mobile devices
+
+The public survey interface supports features such as:
+
+- Required-field validation
+- Progress tracking
+- Multiple question types
+- Anonymous responses
+- Conditional questions
+- Response confirmation
+
+---
+
+### 🔗 QR Code Sharing
+
+Each published survey can be shared through a generated QR code.
+
+Users can:
+
+- Display the QR code
+- Download the QR code
+- Copy the public survey link
+- Share the survey
+
+This makes Sentio suitable for physical environments such as restaurants, events, retail locations, classrooms, clinics, and service counters.
+
+---
 
 ### 🧠 Feedback Intelligence
 
-Sentio provides an intelligence layer for interpreting submitted feedback.
+Sentio includes a feedback intelligence layer for interpreting submitted responses.
 
-It can help surface:
+The system can help identify:
 
-- Positive, neutral, and negative sentiment
+- Positive sentiment
+- Neutral sentiment
+- Negative sentiment
 - Recurring topics
 - Common feedback themes
 - Potential problem areas
-- Patterns across responses
 
-This helps users move from raw feedback toward more meaningful observations.
+This helps transform large collections of responses into more understandable feedback signals.
+
+---
 
 ### 🚨 Issue Radar
 
-Recurring problems can be transformed into trackable issues.
+**Issue Radar** focuses on recurring problems identified within feedback.
 
-Issue Radar provides visibility into:
+Issues can be organized using:
 
-- Issue severity
-- Issue status
-- Categories
+- Severity
+- Status
+- Category
 - Mention frequency
 - Trends
-- Assigned owners
+- Responsible owner
 - Resolution progress
 
-This allows organizations to distinguish between isolated comments and recurring issues that may require action.
+Issues can move through different stages, such as:
+
+**New → Under Review → In Progress → Action Taken → Resolved**
+
+This provides a structured way to move from identifying a problem to managing its resolution.
+
+---
 
 ### ⚡ Action & Improvement Tracking
 
-Identified issues can be connected to actions and tracked through their progress.
+Identified issues can be connected to actions and assigned to responsible users.
 
-Once actions are completed, feedback results can be reviewed over time to understand whether the situation improved.
+Actions can be:
 
-This creates a connection between:
+- Created
+- Assigned
+- Updated
+- Completed
+- Tracked through their lifecycle
 
-**Feedback → Issue → Action → Outcome**
+After an action has been taken, feedback can be compared over time to evaluate whether the situation improved.
+
+This connects:
+
+> **Feedback → Issue → Action → Outcome**
+
+---
 
 ### 📊 Analytics & Feedback Pulse
 
-Sentio provides an analytical view of feedback performance through metrics such as:
+Sentio provides an analytics environment for understanding overall feedback performance.
+
+Key metrics include:
 
 - Total responses
 - Average rating
@@ -153,14 +210,17 @@ Sentio provides an analytical view of feedback performance through metrics such 
 - Response trends
 - Rating distribution
 - Category performance
-- Open and resolved issues
+- Open issues
+- Resolved issues
 - Improvement trends
 
-**Feedback Pulse** provides a high-level snapshot of the overall feedback environment.
+**Feedback Pulse** provides a high-level view of the current feedback environment and helps users quickly identify areas that may require attention.
+
+---
 
 ### 🔐 Audit & Organization Management
 
-The platform also includes supporting management features such as:
+Sentio also provides supporting management functionality including:
 
 - Activity and audit logging
 - Organization settings
@@ -169,50 +229,85 @@ The platform also includes supporting management features such as:
 - Time-zone configuration
 - Appearance customization
 
-These features provide the foundation for managing the application as a complete feedback platform rather than only a survey form.
+These features help position the application as a complete feedback-management platform rather than simply a survey form.
 
 ---
 
 ## ✦ Designed for Different Use Cases
 
-Sentio is intentionally designed as a **general-purpose feedback platform** rather than being limited to a single organization or industry.
-
-It can be adapted for:
+Sentio is intentionally designed as a **general-purpose feedback platform** rather than being restricted to a particular organization or industry.
 
 | Use Case | Example |
 |---|---|
-| 🏢 Business | Customer and service feedback |
-| 🍽️ Hospitality | Restaurant and guest experience |
-| 🎓 Education | Course and instructor evaluation |
-| 🎟️ Events | Attendee and event feedback |
-| 🛍️ Retail | Product and purchasing experience |
-| 💻 SaaS | Product and user feedback |
-| 👥 Employees | Workplace and internal feedback |
-| 🏥 Services | Service quality and experience evaluation |
+| 🏢 **Business** | Customer and service feedback |
+| 🍽️ **Restaurants** | Food, service, waiting time, and dining experience |
+| 🏨 **Hospitality** | Guest experience, facilities, and service quality |
+| 🎓 **Education** | Course, instructor, and learning experience evaluation |
+| 🎟️ **Events** | Attendee, speaker, and event experience feedback |
+| 🛍️ **Retail & E-commerce** | Product, purchasing, and delivery experience |
+| 💻 **SaaS & Products** | Product feedback and recurring user issues |
+| 👥 **Employees** | Workplace and internal process feedback |
+| 🏥 **Services** | Service quality and customer experience |
+
+The platform can therefore be adapted to different environments without changing its fundamental feedback-management workflow.
 
 ---
 
-## ✦ From Feedback to Progress
+## ✦ The Feedback Lifecycle
 
-The central idea behind Sentio can be summarized simply:
+Sentio is built around a continuous cycle rather than a single survey submission.
 
-> **Feedback should lead somewhere.**
+**Collect**
 
-A response is collected.
+Gather structured and written feedback.
 
-A pattern is discovered.
+**Understand**
 
-An issue is identified.
+Identify ratings, sentiment, topics, and patterns.
 
-An action is taken.
+**Detect**
 
-The result is measured.
+Surface recurring issues and areas of concern.
 
-This creates a continuous feedback cycle where organizations can move beyond simply knowing what people think and begin understanding **where improvement is needed and whether their actions are making a difference.**
+**Act**
+
+Assign and track actions to address those issues.
+
+**Measure**
+
+Evaluate whether the actions produced meaningful improvement.
+
+The process can then begin again with new feedback, allowing organizations to continuously learn from the people they serve.
 
 ---
 
-### **Don't just collect feedback. Turn it into progress.**
+## ✦ The Result
+
+Sentio is designed to help answer five practical questions:
+
+### What are people saying?
+
+Understand individual responses and overall feedback.
+
+### What patterns are appearing?
+
+Identify recurring topics and trends.
+
+### Which problems matter most?
+
+Surface issues based on feedback signals.
+
+### What should we do about them?
+
+Turn identified problems into trackable actions.
+
+### Did our actions make a difference?
+
+Compare feedback over time and measure improvement.
+
+---
+
+> ### **Don't just collect feedback. Turn it into progress.**
 
 **Every response provides a signal.  
 Every pattern creates an opportunity.  
