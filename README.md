@@ -237,6 +237,29 @@ Sentio is intentionally designed as a **general-purpose feedback platform** rath
 
 ---
 
+## The Result
+
+Sentio is designed to help organizations answer five practical questions:
+
+- **What are people saying?**
+- **What patterns are appearing?**
+- **Which problems matter most?**
+- **What should we do about them?**
+- **Did our actions actually improve the situation?**
+
+This is the central purpose of Sentio: turning feedback from a collection of responses into information that can support **better decisions, targeted actions, and measurable improvement**.
+
+---
+
+> ### **Don't just collect feedback. Turn it into progress.**
+
+**Every response provides a signal.**  
+**Every pattern creates an opportunity.**  
+**Every issue can lead to an action.**  
+**Every action can be measured.**
+
+---
+
 # ✦ Application Architecture
 
 Sentio follows a modular, component-based frontend architecture.
