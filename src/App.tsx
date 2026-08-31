@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { ToastProvider, useToast } from './components/common/Toast';
 import { LandingNav } from './components/landing/LandingNav';
 import { LandingHero } from './components/landing/LandingHero';
@@ -240,6 +241,7 @@ export default function App() {
   return (
     <ToastProvider>
       <MainApp />
+      <SpeedInsights />
     </ToastProvider>
   );
 }
