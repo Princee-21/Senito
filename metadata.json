@@ -1,0 +1,7 @@
+{
+  "name": "Sentio: Feedback & Issue Operations Platform",
+  "description": "A dark cinematic feedback intelligence and issue operations platform with liquid glass UI and closed-loop telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
